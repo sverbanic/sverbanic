@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello!
+Somehow you've ended up on my github.  
+I was terrible about using it during grad school, but I'm catching up now 😎  
+Lots of updates incoming!
 <!--
 **sverbanic/sverbanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
